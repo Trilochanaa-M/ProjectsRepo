@@ -1,3 +1,3 @@
 # ProjectsRepo
 
-Trilochanaa's repository containing projects done
+Repository for IBM data science course projects
